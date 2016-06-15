@@ -1,0 +1,22 @@
+{
+  "name": "mpa-directory-tree",
+  "version": "0.0.1",
+  "description": "Convert a directory tree to a JS object. Modified from directory-tree, added blackExtension and includeDotFile features.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bammoo/mpa-directory-tree"
+  },
+  "keywords": [
+    "directory",
+    "tree"
+  ],
+  "main": "lib/directory-tree.js",
+  "author": {
+    "name": "John Xiao"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bammoo/mpa-directory-tree/issues"
+  },
+  "homepage": "https://github.com/bammoo/mpa-directory-tree"
+}
